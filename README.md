@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelobezerrajr&include_all_commits=true&theme=react&hide_border=true&v=1" height="178" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelobezerrajr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=true&v=1" height="178" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelobezerrajr&include_all_commits=true&theme=react&hide_border=true&v=1&cache_seconds=1800" height="178" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelobezerrajr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=true&v=1&cache_seconds=1800" height="178" alt="languages graph" />
 </div>
 
 ###
