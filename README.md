@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hello world, I am a Backend and Frontend developer. I'm at the beginning of my career, wanting to know a lot more about the world of programming. I like transforming ideas into perfect digital experiences and exploring modern technologies.</h3>
+<h3 align="left">Hello world, I'm a FullStack developer. I'm at the beginning of my career, wanting to know a lot more about the world of programming. I like transforming ideas into perfect digital experiences and exploring modern technologies.</h3>
 
 ###
 
