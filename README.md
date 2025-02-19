@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/marcelobezerrajr/logo-marcelo-developer/blob/main/logo_marcelo_developer_branco.png?raw=true" alt="Logo Marcelo Developer" width="300">
+  <img src="https://raw.githubusercontent.com/marcelobezerrajr/logo-marcelo-developer/main/logo_marcelo_developer_branco.png" alt="Minha Logo" width="300">
 </p>
 
 <h1 align="center">👋 Hey, I'm Marcelo Bezerra</h1>
