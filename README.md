@@ -1,37 +1,37 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcelobezerrajr/logo-marcelo-developer/main/logo_marcelo_developer_branco.png" alt="Minha Logo" width="300">
+  <img src="https://raw.githubusercontent.com/marcelobezerrajr/logo-marcelo-developer/main/logo_marcelo_developer_branco.png" alt="My Logo" width="300">
 </p>
 
-<h1 align="center">👋 Hey, I'm Marcelo Bezerra</h1>
-<h3 align="center">Full Stack Developer | Building Scalable and Impactful Solutions 🚀</h3>
+<h1 align="center">Hey there! I'm Marcelo Bezerra</h1>
+<h3 align="center">Full Stack Developer | Building scalable solutions with purpose</h3>
 
 <p align="center">
-  Passionate about crafting efficient, modern, and user-centered applications.  
-  I thrive on solving complex challenges through code, constantly exploring new technologies to deliver robust digital experiences.
+  I love turning ideas into efficient, modern, and user-focused applications.  
+  Naturally curious, I'm always learning something new to build better and more intuitive digital experiences.
 </p>
 
 ---
 
-## 📁 About Me  
+## 🧑🏻‍💻 About Me  
 
-- 💻 **Full Stack Developer** focused on **clean architecture** and **scalable applications**  
-- 💼 Constantly **learning new technologies** to refine my skills and create better solutions  
-- 🚀 Enthusiastic about **problem-solving**, **tech innovation**, and **collaborative projects**  
-- 🎯 Strong believer in **continuous growth**, **self-improvement**, and **impact-driven development**  
+- 💻 Full Stack Developer focused on **clean architecture** and **scalable applications**  
+- 📘 Always learning new technologies to grow and deliver better results  
+- 🤓 Passionate about solving real problems and building meaningful solutions  
+- 🫡 Big believer in continuous learning, collaboration, and purpose-driven development  
 
 ---
 
-## ⚙️ Tech Stack  
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcelobezerrajr&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
