@@ -3,38 +3,38 @@
 </p>
 
 <h1 align="center">Hey there! I'm Marcelo Bezerra</h1>
-<h3 align="center">Full Stack Developer | Building scalable solutions with purpose</h3>
+<h3 align="center">Backend Developer | Python, Java, APIs, Integrations, Process Automation and RPA</h3>
 
 <p align="center">
-  I love turning ideas into efficient, modern, and user-focused applications.  
-  Naturally curious, I'm always learning something new to build better and more intuitive digital experiences.
+  I enjoy building solutions that connect systems, automate tasks, and improve day-to-day efficiency.
+  I'm always looking for ways to write clean, reusable code that solves real problems.
 </p>
 
 ---
 
-## 🧑🏻‍💻 About Me  
+## 🧑🏻‍💻 About me
 
-- 💻 Full Stack Developer focused on **clean architecture** and **scalable applications**  
-- 📘 Always learning new technologies to grow and deliver better results  
-- 🤓 Passionate about solving real problems and building meaningful solutions  
-- 🫡 Big believer in continuous learning, collaboration, and purpose-driven development  
+- 🐍 Expert in **Python**, development of **REST APIs** and use of **FastAPI** 
+- 🔁 Developer focused on **system integrations and process automation** 
+- 🧠 Curious by nature and always learning new technologies 
+- ⚙️ I believe in technology as a tool to **optimize flows and generate real impact**
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Stack e Ferramentas  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
 </p>
 
 ---
