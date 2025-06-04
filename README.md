@@ -3,21 +3,22 @@
 </p>
 
 <h1 align="center">Hey there! I'm Marcelo Bezerra</h1>
-<h3 align="center">Backend Developer | Python, Java, APIs, Integrations, Process Automation and RPA</h3>
+<h3 align="center">Backend Developer | Python & Java | APIs, System Integrations, Process Automation and RPA</h3>
 
 <p align="center">
-  I enjoy building solutions that connect systems, automate tasks, and improve day-to-day efficiency.
-  I'm always looking for ways to write clean, reusable code that solves real problems.
+  I build solutions that connect systems, automate workflows, and increase operational efficiency.<br>
+  Passionate about clean code and problem-solving, I'm always learning and improving.
 </p>
 
 ---
 
-## 🧑🏻‍💻 About me
+## 🧑🏻‍💻 About Me
 
-- 🐍 Expert in **Python**, development of **REST APIs** and use of **FastAPI** 
-- 🔁 Developer focused on **system integrations and process automation** 
-- 🧠 Curious by nature and always learning new technologies 
-- ⚙️ I believe in technology as a tool to **optimize flows and generate real impact**
+- 🔧 Backend developer focused on **system integrations** and **business process automation**
+- 🐍 Skills in **Python** and **Java**, developing **RESTful APIs** with **FastAPI** and **Spring Boot**
+- 🤖 Experience with **RPA tools** such as **BotCity** and using **Pipefy** also for custom automation flows
+- 🧠 Continuous learning, curious by nature and motivated to deliver meaningful and scalable solutions
+- 💡 I believe that technology should simplify routines, empower teams and generate real impact
 
 ---
 
@@ -36,6 +37,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
 </p>
+
+---
+
+## ⚙️ Tools & Platforms  
+
+- 🔁 **Pipefy** – automation of workflows and business logic  
+- 🤖 **BotCity** – RPA bots for custom task automation  
+- 📮 **Postman** – API testing & documentation  
+- 🐳 **Docker** – environment containerization  
+- 🧰 **Git & GitLab** – version control and team collaboration  
+- 📊 **Power BI** – interactive dashboards for insights
 
 ---
 
