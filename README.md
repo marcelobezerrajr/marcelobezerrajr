@@ -15,7 +15,7 @@
 ## 🧑🏻‍💻 About Me
 
 - 🔧 Backend developer focused on **system integrations** and **business process automation**
-- 🐍 Skills in **Python** and **Java**, developing **RESTful APIs** with **FastAPI** and **Spring Boot**
+- 💻 Skills in **Python** and **Java**, developing **RESTful APIs** with **FastAPI** and **Spring Boot**
 - 🤖 Experience with **RPA tools** such as **BotCity** and using **Pipefy** also for custom automation flows
 - 🧠 Continuous learning, curious by nature and motivated to deliver meaningful and scalable solutions
 - 💡 I believe that technology should simplify routines, empower teams and generate real impact
@@ -42,11 +42,11 @@
 
 ## ⚙️ Tools & Platforms  
 
-- 🔁 **Pipefy** – automation of workflows and business logic  
-- 🤖 **BotCity** – RPA bots for custom task automation  
+- 🐳 **Docker** – environment containerization
 - 📮 **Postman** – API testing & documentation  
-- 🐳 **Docker** – environment containerization  
 - 🧰 **Git & GitLab** – version control and team collaboration  
+- 🤖 **BotCity** – RPA bots for custom task automation  
+- 🔁 **Pipefy** – automation of workflows and business logic  
 - 📊 **Power BI** – interactive dashboards for insights
 
 ---
