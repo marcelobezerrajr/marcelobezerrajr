@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marcelobezerrajr/logo-marcelo-developer/main/logo_marcelo_developer_branco.png" alt="My Logo" width="300">
-</p>
-
 <h1 align="center">Hi, I'm Marcelo Bezerra</h1>
 <h3 align="center">Backend Developer | Python • Java | APIs, Integrations & Automation</h3>
 
