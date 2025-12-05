@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Marcelo Bezerra</h1>
-<h3 align="center">Backend Developer | Python • Java | APIs, Integrations & Automation</h3>
+<h3 align="center">Backend Developer | Python • Java | APIs, Integrations, AI Agents & Automation</h3>
 
 <p align="center">
-  Backend developer focused on building APIs, integrating systems, and automating workflows.  
+  Backend developer focused on building APIs, integrating systems, ai agents and automating workflows.  
   I care about code quality, performance, and solutions that make real operational impact.
 </p>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-- Backend developer focused on **web development**, **system integrations** and **process automation**  
+- Backend developer focused on **web development**, **system integrations**, **AI agents** and **process automation**  
 - Experience with **Python (FastAPI)** and **Java (Spring Boot)** for building **REST APIs**  
 - Proficient in **Linux environments**, using **Docker** for containerized deployments  
 - Work with **BotCity** and **Pipefy** to automate complex business workflows  
@@ -37,20 +37,12 @@
 
 - **Linux** – main development environment (Arch-based)  
 - **Docker** – containerization and service orchestration  
+- **Agno** – creation of AI agents
 - **Postman** – API testing and documentation  
-- **Git & GitLab** – version control and CI/CD pipelines  
+- **Git & GitHub/GitLab** – version control and CI/CD pipelines  
 - **Pipefy** – workflow automation and integrations  
 - **BotCity** – RPA automation bots  
 - **Power BI** – dashboards for monitoring and insights  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelobezerrajr&theme=react&hide_border=true&show_icons=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobezerrajr&layout=compact&theme=react&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
-</p>
 
 ---
 
