@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Python • Java | APIs, Integrations, AI Agents & Automation</h3>
 
 <p align="center">
-  Backend developer focused on building APIs, integrating systems, ai agents and automating workflows.  
+  Backend developer focused on building APIs, integrating systems, AI agents and automating workflows.  
   I care about code quality, performance, and solutions that make real operational impact.
 </p>
 
@@ -21,12 +21,14 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="60" alt="Arch Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="Sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="60" alt="Arch Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
 </p>
@@ -37,7 +39,8 @@
 
 - **Linux** – main development environment (Arch-based)  
 - **Docker** – containerization and service orchestration  
-- **Agno** – creation of AI agents
+- **PostgreSQL & Sqlite** – databases management 
+- **Agno** – AI agent development
 - **Postman** – API testing and documentation  
 - **Git & GitHub/GitLab** – version control and CI/CD pipelines  
 - **Pipefy** – workflow automation and integrations  
