@@ -21,16 +21,17 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="Sqlite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="60" alt="Arch Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="60" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="60" alt="Sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="Arch Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="60" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/githubactions/githubactions-original.svg" height="60" alt="Git" />
 </p>
 
 ---
@@ -39,10 +40,12 @@
 
 - **Linux** – main development environment (Arch-based)  
 - **Docker** – containerization and service orchestration  
-- **PostgreSQL & Sqlite** – databases management 
+- **PostgreSQL & Sqlite** – databases management
+- **AWS (EC2, ECR)** – cloud
 - **Agno** – AI agent development
 - **Postman** – API testing and documentation  
-- **Git & GitHub/GitLab** – version control and CI/CD pipelines  
+- **Git & GitHub/GitLab/BitBucket** – version control
+- **GitHub Actions** - CI/CD pipelines  
 - **Pipefy** – workflow automation and integrations  
 - **BotCity** – RPA automation bots  
 - **Power BI** – dashboards for monitoring and insights  
