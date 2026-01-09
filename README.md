@@ -10,8 +10,8 @@
 
 ## About Me
 
-- Backend developer focused on **web development**, **system integrations**, **AI agents** and **process automation**  
-- Experience with **Python (FastAPI)** and **Java (Spring Boot)** for building **REST APIs**  
+- Backend developer focused on **web APIs**, **system integrations**, **AI agents**, **process automation** and **event-driven systems**  
+- Experience building **REST APIs**, **webhooks** and **scheduled jobs (cron)** to orchestrate business workflows
 - Proficient in **Linux environments**, using **Docker** for containerized deployments  
 - Work with **BotCity** and **Pipefy** to automate complex business workflows  
 - Advocate of clean code, scalability, and continuous improvement  
@@ -38,14 +38,16 @@
 
 ## Tools & Platforms
 
+- **FastAPI / Spring Boot** – REST APIs & Webhook endpoints 
 - **Linux** – main development environment (Arch-based)  
 - **Docker** – containerization and service orchestration  
 - **PostgreSQL & Sqlite** – databases management
 - **AWS (EC2, ECR)** – cloud
-- **Agno** – AI agent development
 - **Postman** – API testing and documentation  
 - **Git & GitHub/GitLab/BitBucket** – version control
-- **GitHub Actions** - CI/CD pipelines  
+- **GitHub Actions** - CI/CD pipelines
+- **Cron & Task schedulers** – background jobs and automation 
+- **Agno** – AI agent development
 - **Pipefy** – workflow automation and integrations  
 - **BotCity** – RPA automation bots  
 - **Power BI** – dashboards for monitoring and insights  
