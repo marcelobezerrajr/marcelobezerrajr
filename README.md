@@ -42,7 +42,7 @@
 - **Docker** – containerization and service orchestration  
 - **PostgreSQL & Sqlite** – databases management
 - **Postman** – API testing and documentation  
-- **Git & GitHub/GitLab/BitBucket** – version control
+- **Git & GitHub/GitLab** – version control
 - **GitHub Actions** - CI/CD pipelines
 - **Cron & Task schedulers** – background jobs and automation 
 - **Agno & LangChain** – AI agent development
