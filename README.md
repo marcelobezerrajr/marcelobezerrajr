@@ -31,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="60" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/githubactions/githubactions-original.svg" height="60" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="Arch Linux" />
 </p>
 
 ---
@@ -45,9 +44,8 @@
 - **Postman** – API testing and documentation  
 - **Git & GitHub/GitLab/BitBucket** – version control
 - **GitHub Actions** - CI/CD pipelines
-- **AWS (EC2, ECR)** – cloud
 - **Cron & Task schedulers** – background jobs and automation 
-- **Agno** – AI agent development
+- **Agno & LangChain** – AI agent development
 - **Pipefy** – workflow automation and integrations  
 - **BotCity** – RPA automation bots  
 - **Power BI** – dashboards for monitoring and insights  
