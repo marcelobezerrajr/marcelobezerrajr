@@ -81,7 +81,7 @@ RESTful API, developed in Java with Spring Boot,  based on a project by Professo
   </tr>
   <tr>
     <td><b>Infrastructure & DevOps</b></td>
-    <td><code>Linux</code> &nbsp; <code>Docker</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub Actions</code> &nbsp; <code>Cron & Task Schedulers</code></td>
+    <td><code>Linux</code> &nbsp; <code>Docker</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub Actions</code> &nbsp; <code>Cron & Task Schedulers</code> &nbsp; <code>Webhooks</code></td>
   </tr>
   <tr>
     <td><b>AI & Automation</b></td>
