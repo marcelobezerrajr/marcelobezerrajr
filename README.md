@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marcelo Bezerra</h1>
-<h3 align="center">Backend Developer | Python • Java | AI Agents • APIs • Integrations • Automation</h3>
+<h3 align="center">Backend Developer | Python • Java | AI Agents • RPA • APIs • Integrations • Automation</h3>
 
 <p align="center">
   Backend developer building AI Agents, RPA, REST APIs and system integrations.<br/>
