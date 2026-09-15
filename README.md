@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Marcelo Bezerra</h1>
-<h3 align="center">Backend Developer | Python • Java | APIs, Integrations, AI Agents & Automation</h3>
+<h3 align="center">Backend Developer | Python • Java | AI Agents • APIs • Integrations • Automation</h3>
 
 <p align="center">
-  Backend developer building REST APIs, system integrations, AI agents and workflow automation.<br/>
+  Backend developer building AI Agents, RPA, REST APIs and system integrations.<br/>
   Focused on code quality, performance and solutions that reduce real operational overhead.
 </p>
 
@@ -36,7 +36,8 @@ Backend developer with hands-on experience building **REST APIs**, **system inte
 - Automating complex business workflows using **Pipefy** and **BotCity**
 - Proficiency with **Linux** and container deployments with **Docker**
 - CI/CD pipelines via **GitHub Actions**
-- Background jobs, webhooks and event-driven systems
+- Using **AI-assisted development workflows** with tools such as **Claude** and **Claude Code**
+- Working with **background jobs**, **webhooks** and **event-driven systems**
 
 ---
 
@@ -81,15 +82,19 @@ RESTful API, developed in Java with Spring Boot,  based on a project by Professo
   </tr>
   <tr>
     <td><b>Infrastructure & DevOps</b></td>
-    <td><code>Linux</code> &nbsp; <code>Docker</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub Actions</code> &nbsp; <code>Cron & Task Schedulers</code> &nbsp; <code>Webhooks</code></td>
+    <td><code>Linux</code> &nbsp; <code>Docker</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub Actions</code></td>
   </tr>
   <tr>
     <td><b>AI & Automation</b></td>
     <td><code>Agno</code> &nbsp; <code>LangChain</code> &nbsp; <code>Pipefy</code> &nbsp; <code>BotCity</code></td>
   </tr>
   <tr>
+    <td><b>AI-assisted Development</b></td>
+    <td><code>Claude</code> &nbsp; <code>Claude Code</code></td>
+  </tr>
+  <tr>
     <td><b>Observability & Tooling</b></td>
-    <td><code>Power BI</code> &nbsp; <code>Postman</code></td>
+    <td><code>Power BI</code> &nbsp; <code>Postman</code> &nbsp; <code>Webhoos</code> &nbsp; <code>Background Jobs</code></td>
   </tr>
 </table>
 
